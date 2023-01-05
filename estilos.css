@@ -1,0 +1,9 @@
+.classeTeste{
+  color: red;  
+}
+
+body{
+    display:flex;
+    flex-direction: column;
+    
+}
